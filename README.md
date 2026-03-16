@@ -59,8 +59,8 @@ My work includes **landing pages, UI component systems, and full website layouts
 
 ## 📫 Contact
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: (add when available)
+* GitHub: https://github.com/yashNemade
+* LinkedIn: https://www.linkedin.com/in/yash-nemade
 
 ---
 
